@@ -7,5 +7,5 @@
 <li> Senmantic UI</li>
  </ul> <hr>
 <ul>
-  <li> Demo -> <a href="https://crudvue.netlify.app/signin"> Auth CRUD Vue</a> </li>
+  <li> Demo -> <a href="https://crudvue.netlify.app"> Auth CRUD Vue</a> </li>
 </ul>
