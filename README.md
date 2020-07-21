@@ -5,5 +5,7 @@
 <li> Axios  </li>
 <li> Vuex </li>
 <li> Senmantic UI</li>
+ </ul> <hr>
 <ul>
-  <li> Demo -> <a href="https://crudvue.netlify.app/signin"> Auth CRUD Vue</a>
+  <li> Demo -> <a href="https://crudvue.netlify.app/signin"> Auth CRUD Vue</a> </li>
+</ul>
